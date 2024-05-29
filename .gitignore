@@ -1,5 +1,5 @@
 # Next.js build output
-.next/
+.next
 out/
 
 # Node modules and dependencies
@@ -46,3 +46,4 @@ yarn-error.log*
 
 # Optional: Windows generated file
 ehthumbs.db
+.next/cache/webpack/client-development/1.pack.gz
