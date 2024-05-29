@@ -31,7 +31,7 @@ function Main() {
 {/* texxt */}
 
       <div className='flex flex-col items-center gap-2 justify-center h-[200px] w-full bg-black-500'>
-        <div className='text-4xl font-serif'> "Connecting minds, Empowering futures" </div>
+        <div className='text-4xl font-serif'> Connecting minds, Empowering futures </div>
        
       </div>
 
